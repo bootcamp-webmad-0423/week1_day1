@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    font-weight: 100;
+}
+
+h1 {
+    margin-top: 100px;
+    border: 1px solid black;
+    padding-top: 100px;
+}
+
+p {
+    font-weight: 100;
+}
+
+.clear-link {
+    color: black;
+    text-decoration: none;
+}
+
+.red-text {
+    color: #a9add6;
+}
+
+.menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+img {
+    width: 100px;
+}
+
+.flex-container {
+    display: flex;
+}
